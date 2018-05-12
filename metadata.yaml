@@ -1,0 +1,30 @@
+_repo: The-Tale-of-Terror--13-A-Study-of-the-Gothic-Romance_14154
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birkhead, Edith
+    gutenberg_agent_id: '5388'
+    url: http://www.gutenberg.org/2009/agents/5388
+    wikipedia: http://en.wikipedia.org/wiki/Edith_Birkhead
+description: ''
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14154'
+  lccn: '21013606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Horror tales, English -- History and criticism'
+- !lcsh 'Gothic revival (Literature) -- Great Britain'
+- !lcsh 'Supernatural in literature'
+title: 'The Tale of Terror: A Study of the Gothic Romance'
+url: http://www.gutenberg.org/ebooks/14154
