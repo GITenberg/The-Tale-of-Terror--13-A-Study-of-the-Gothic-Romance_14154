@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5388
     wikipedia: http://en.wikipedia.org/wiki/Edith_Birkhead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14154#The-Tale-of-Terror--13-A-Study-of-the-Gothic-Romance
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2004-11-26'
 gutenberg_type: Text
